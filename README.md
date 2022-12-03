@@ -11,4 +11,4 @@ CodePen URL : https://codepen.io/bobyin22/pen/yLEEGxo
 
 2.滑鼠click、unclick來改變圖片變換
 
-3.運用DOM事件驅動程式設計，點擊Howard變大、音效並累加點擊數。
+3.運用DOM事件驅動程式設計，點擊Howard變大、音效並累加點擊數
